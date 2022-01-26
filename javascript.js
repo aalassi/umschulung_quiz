@@ -113,7 +113,15 @@ function myFunction() {
           c: "Steckverbinder",
           d: "Patchkabel und Installationskabel"
         },
-        correctAnswer: "d"
+        correctAnswer: "b"
+      },
+      {
+        question: "OSI Modell besteht aus 5 Schichten",
+        answers: {
+          a: "richtig",
+          b: "falsch"
+        },
+        correctAnswer: "b"
       }
     ];
   
