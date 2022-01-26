@@ -132,15 +132,7 @@ function myFunction() {
         },
         correctAnswer: "a"
         },
-        {
-            question: "Das erste Computernetzwerk heißt:",
-            answers: {
-              a: "ARPANET",
-              b: "das erste Netzwerk",
-              c: "USA Netzwerk"
-            },
-            correctAnswer: "a"
-            },
+   
         
         {
             question: "In dieser Topologie steht ein Switch als zentraler Knotenpunkt. Alle Stationen sind dort angeschlossen, es gibt keine direkte Kommunikation unter den Stationen. Alle Kommunikation läuft über den zentralen Knotenpunkt. Welche Topologie ?",
