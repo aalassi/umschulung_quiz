@@ -3,6 +3,11 @@ body{
 	font-family: sans-serif;
 	color: #333;
 }
+
+#quiz {
+    padding: 1rem;
+    margin: 1rem;
+}
 .question{
 	font-weight: 600;
 }
