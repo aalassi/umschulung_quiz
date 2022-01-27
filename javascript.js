@@ -132,7 +132,7 @@ function myFunction() {
         },
         correctAnswer: "a"
         },
-   
+        
         
         {
             question: "In dieser Topologie steht ein Switch als zentraler Knotenpunkt. Alle Stationen sind dort angeschlossen, es gibt keine direkte Kommunikation unter den Stationen. Alle Kommunikation läuft über den zentralen Knotenpunkt. Welche Topologie ?",
@@ -143,6 +143,38 @@ function myFunction() {
             },
             correctAnswer: "b"
             },
+
+            {
+              question: "Das Ethernet ist im OSI-Modell auf Schicht 1 (Hardware) und 2 (Protokoll) zu finden.",
+              answers: {
+                a: "richtig",
+                b: "falsch"
+              },
+              correctAnswer: "a"
+            },
+
+            {
+              question: "Die ........... im OSI-Modell ist zuständig für die fehlerfreie Übertragung des Bitdatenstroms, der hierfür in Pakete aufgeteilt und mit Folgenummern und Prüfsummen adressiert werden. Die ............ ordnet die Pakete, erkennt Fehler und korrigiert diese, um sicherzustellen, dass die Daten wie gesendet empfangen werden. Bei Fehlern wird eine erneute Übertragung eingeleitet. Die ............. arbeitet zudem mit der MAC-Adresse, um Geräte zu identifizieren.",
+              answers: {
+                a: "Bitübertragungsschicht (Physical Layer)",
+                b: "Sicherungsschicht (Data Link Layer)",
+                c: "Transportschicht (Transport Layer)",
+                d: "Vermittlungsschicht (Network Layer)"
+              },
+              correctAnswer: "b"
+            },
+
+            {
+              question: "Die Schicht eins des OSI-Modells ist",
+              answers: {
+                a: "Transportschicht (Transport Layer)",
+                b: "Vermittlungsschicht (Network Layer)",
+                c: "Darstellungsschicht (Presentation Layer)",
+                d: "Bitübertragungsschicht (Physical Layer)"
+              },
+              correctAnswer: "d"
+            },
+
     ];
   
     buildQuiz();
