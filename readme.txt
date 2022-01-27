@@ -1,3 +1,11 @@
+
+Willkommen zu Netzwerk Quizz ! xD
+https://aalassi.github.io/umschulung_quiz/
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+favicon wurde benutzt von :
+
 Thank you for downloading a favicon from Free Favicon! This favicon was created from an image at http://openclipart.org/ and converted to a favicon and other sizes for you to use in your projects. For more details about this image visit this page: https://openclipart.org/detail/307421/Question%20icon
 
 For more information about how you can use this image from OpenClipArt see this page: http://openclipart.org/may-clipart-be-used-comparison
